@@ -1,3 +1,0 @@
-#代理gcr.io上的镜像
-
-FROM k8s.gcr.io/kube-state-metrics:v1.3.0
